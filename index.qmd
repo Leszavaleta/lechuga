@@ -1,0 +1,21 @@
+---
+title: "lechuga"
+format: html
+---
+
+---
+title: "Tratamiento T1 LAT"
+format: html
+---
+
+## Producto
+
+Agua (Testigo)
+
+## Concentración
+
+0.00 %
+
+## Dosis
+
+0.0 L/ha
